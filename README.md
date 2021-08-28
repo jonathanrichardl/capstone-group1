@@ -1,6 +1,10 @@
 # capstone-group1
 Automatic Social Distancing and Mask detection using Machine Learning
-
+# Packages needed to be installed (Add this if you use non-default new packages)
+### 1. Paho MQTT
+```
+pip install paho-mqtt
+```
 # Project Structure (Tentative)
 ### 1. Class Mqtt
 Contents: APIs for sending and receiving messages in the IoT network 
