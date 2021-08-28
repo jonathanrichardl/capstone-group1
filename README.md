@@ -5,6 +5,10 @@ Automatic Social Distancing and Mask detection using Machine Learning
 ```
 pip install paho-mqtt
 ```
+
+### 2. Mosquitto MQTT broker for windows
+https://mosquitto.org/
+
 # Project Structure (Tentative)
 ### 1. Class Mqtt
 Contents: APIs for sending and receiving messages in the IoT network 
