@@ -1,6 +1,6 @@
 # capstone-group1
 Automatic Social Distancing and Mask detection using Machine Learning
-# Packages needed to be installed (Add this if you use non-default new packages)
+# Packages needed to be installed (Expand this if you use non-default new packages)
 ### 1. Paho MQTT
 ```
 pip install paho-mqtt
@@ -72,7 +72,7 @@ def increment_all_elements(array : np.array) -> None:
 ```
 ### Don'ts 
 ```
-def is_it_one(max_retries):
+def is_it_one(x):
      if x == 1:  
         return "Yes"
     return "No"
