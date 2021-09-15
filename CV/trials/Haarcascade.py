@@ -1,5 +1,5 @@
 import cv2
-
+#Joricop
 # Reading the Image
 image = cv2.imread('pedestrian1.jpg')
 
